@@ -5,9 +5,13 @@ The BTC Price Dashboard is a Shiny application for monitoring Bitcoin (BTC) pric
 
 ## Features
 - **Data Refresh and Update**: Retrieve the latest Bitcoin price data from a MySQL database.
+![Description GIF 1](https://github.com/aaronMulveyAI/Stock2Flow/blob/main/images/c3.png)  
 - **Interactive Charts**: View BTC prices as candlestick charts and analyze market cap or moving averages.
+![Description GIF 1](https://github.com/aaronMulveyAI/Stock2Flow/blob/main/images/c2.png)
 - **Customizable Time Intervals**: Group data by hourly, daily, weekly, or monthly intervals.
+![Description GIF 1](https://github.com/aaronMulveyAI/Stock2Flow/blob/main/images/c1.png)
 - **Logarithmic Scale**: Toggle log scale for charts.
+  
 - **User Notes**: Add custom notes within the app.
 
 ## Prerequisites
